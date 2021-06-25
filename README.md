@@ -9,7 +9,7 @@ I've been programming since 2002, and developing iOS apps since 2013. Much of th
 Besides my day job, I build apps under [Random Projects](http://www.random-projects.com). Currently, that includes:
 
 * Countr - A simple digital clicker counter. Take a count of anything and everything, across iPhone, iPad, and Apple Watch.
-* [DoMarks](https://www.domarks.app) - A To-Do App For Bookmarks
+* [DoMarks](https://www.domarks.app) - The To-Do App For Bookmarks, available for iOS, iPadOS, and macOS
 * More projects in development
 
 ### Find Me
