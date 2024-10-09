@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Josh. I'm currently an iOS developer at U-Haul. 
+I'm Josh. I'm currently a Senior iOS developer at U-Haul. 
 
 I've been programming since 2002, and developing iOS apps since 2013. Much of that time was spent working alone on projects, so I value the importance of getting answers and assistance when needed. I'm always happy to help with Swift/iOS questions.
 
